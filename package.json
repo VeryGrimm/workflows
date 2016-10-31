@@ -7,5 +7,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Josh Holcomb"
+  "author": "Josh Holcomb",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
